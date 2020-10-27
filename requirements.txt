@@ -1,0 +1,5 @@
+matplotlib>=3.1.1
+numpy>=1.18.4
+xlrd>=1.2.0
+xlsxwriter>=1.2.8
+pyinstaller

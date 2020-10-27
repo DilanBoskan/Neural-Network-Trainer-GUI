@@ -1,0 +1,4 @@
+Input Neurons: 10
+Output Neurons: 4
+
+Dataset size: 30

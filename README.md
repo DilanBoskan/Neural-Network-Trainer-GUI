@@ -3,6 +3,7 @@ Easily set up a multi-layer neural network (MLP) to train on your excel datasets
 <p align="center">
     <img src="showcase.gif" alt="GUI Showcase"/>
 </p>
+
 [![Downloads](https://img.shields.io/github/downloads/DilanBoskan/Neural-Network-Trainer-GUI/total.svg)](https://github.com/DilanBoskan/Neural-Network-Trainer-GUI/releases/latest)
 
 ## Motivation

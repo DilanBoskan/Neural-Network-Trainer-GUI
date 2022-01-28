@@ -5,7 +5,7 @@ Easily set up a multi-layer neural network (MLP) to train on your excel datasets
 </p>
 
 ## Motivation
-Have an easy to use application to train the MNIST dataset of hand-written digits.
+Have an easy to use application to train the MNIST dataset of hand-written digits for my pre-scientific work about neural network training.
 
 ## Features
 * Train a neural network

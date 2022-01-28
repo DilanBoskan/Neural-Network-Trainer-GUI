@@ -4,8 +4,6 @@ Easily set up a multi-layer neural network (MLP) to train on your excel datasets
     <img src="showcase.gif" alt="GUI Showcase"/>
 </p>
 
-[![Downloads](https://img.shields.io/github/downloads/DilanBoskan/Neural-Network-Trainer-GUI/total.svg)](https://github.com/DilanBoskan/Neural-Network-Trainer-GUI/releases/latest)
-
 ## Motivation
 Have an easy to use application to train the MNIST dataset of hand-written digits.
 
